@@ -24,7 +24,7 @@ const Service = () => {
 
             <div className='service-box'>
                 <div className='service-info'>
-                    <h4>Backend Development</h4>
+                    <h4 className='Frontend'>Backend Development</h4>
                     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eaque eius facere nisi ullam aliquid, repudiandae ea dolorum. Debitis modi porro libero cum fugiat harum aliquid, molestias officiis ratione magni quam.</p>
                 </div>
             </div>

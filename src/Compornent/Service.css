@@ -70,7 +70,7 @@
         grid-template-columns: repeat(1,1fr);
     }
     .service-info .Frontend {
-        font-size: 28px;
+        font-size: 25px;
         font: 600;
         font-weight: 800;
     }
