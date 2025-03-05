@@ -1,6 +1,6 @@
 import React from 'react'
 import './Testimonial.css'
-import { CiStar } from "react-icons/ci";
+import { FaStar } from "react-icons/fa";
 import man1 from '../assets/man1.png'
 import man2 from '../assets/man2.png'
 import man3 from '../assets/man3.png'
@@ -16,11 +16,11 @@ const Testimonial = () => {
                     <img src={man1} alt="" />
                     <h2>Adeyemo</h2>
                     <div className='rating'>
-                      <CiStar id='star' />
-                      <CiStar id='star' />
-                      <CiStar id='star' />
-                      <CiStar id='star' />
-                      <CiStar id='star' />
+                      <FaStar id='star' />
+                      <FaStar id='star' />
+                      <FaStar id='star' />
+                      <FaStar id='star' />
+                      <FaStar id='star' />
                     </div>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet veritatis nostrum ipsum doloremque magnam quidem voluptatum et aperiam aliquid, laudantium sed consectetur explicabo minus, praesentium voluptatem aspernatur eveniet consequatur officiis.</p>
                 </div>
@@ -31,11 +31,11 @@ const Testimonial = () => {
                     <img src={man2} alt="" />
                     <h2>Adedamola</h2>
                     <div className='rating'>
-                      <CiStar id='star' />
-                      <CiStar id='star' />
-                      <CiStar id='star' />
-                      <CiStar id='star' />
-                      <CiStar id='star' />
+                      <FaStar id='star' />
+                      <FaStar id='star' />
+                      <FaStar id='star' />
+                      <FaStar id='star' />
+                      <FaStar id='star' />
                     </div>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet veritatis nostrum ipsum doloremque magnam quidem voluptatum et aperiam aliquid, laudantium sed consectetur explicabo minus, praesentium voluptatem aspernatur eveniet consequatur officiis.</p>
                 </div>
@@ -47,11 +47,11 @@ const Testimonial = () => {
                     <img src={man3} alt="" />
                     <h2>Steady</h2>
                     <div className='rating'>
-                    <CiStar id='star' />
-                    <CiStar id='star' />
-                    <CiStar id='star' />
-                    <CiStar id='star' />
-                    <CiStar id='star' />
+                    <FaStar id='star' />
+                    <FaStar id='star' />
+                    <FaStar id='star' />
+                    <FaStar id='star' />
+                    <FaStar id='star' />
                     </div>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet veritatis nostrum ipsum doloremque magnam quidem voluptatum et aperiam aliquid, laudantium sed consectetur explicabo minus, praesentium voluptatem aspernatur eveniet consequatur officiis.</p>
                 </div>
