@@ -34,7 +34,7 @@ const Header = () => {
         </div>
         <div className='btn-group'>
           <a href="#" className='btn'>Hire</a>
-          <a href="#" className='btn'>Contact</a>
+          <a href="#" className='btn'>Download CV</a>
         </div>
       </div>
         <div className='home-img'  data-aos="fade-left">

@@ -2,7 +2,8 @@
 import './App.css'
 import Navbar from './Compornent/CustomNavbar'
 import Header from './Compornent/Header'
-// import Education from './Compornent/Education'
+import Project from './Compornent/Project'
+// // import Education from './Compornent/Education'
 import Service from './Compornent/Service'
 import Testimonial from './Compornent/Testimonial'
 import Contact from './Compornent/Contact'
@@ -13,6 +14,7 @@ function App() {
     <>
     <Navbar />
     <Header />
+    <Project />
     {/* <Education /> */}
     <Service />
     <Testimonial />

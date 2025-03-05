@@ -1,6 +1,6 @@
 section {
     min-height: 100vh;
-    padding: 10% 12% 10rem;
+    padding: 10% 10% 10rem;
 }
 .home {
     display: flex;
@@ -248,5 +248,9 @@ span {
         font-size: 18px;
         padding: 1rem 2.5rem;
         /* margin-bottom: 10px; */
+    }
+    .btn-group a:nth-of-type(2){
+        font-size: 13px;
+
     }
 }
