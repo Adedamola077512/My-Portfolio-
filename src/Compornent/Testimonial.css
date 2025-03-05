@@ -67,8 +67,8 @@
         flex-direction: column;
     }
     .testimonial-item p{
-        font-size: 16px;
+        font-size: 12px;
         text-align: center;
-        font-weight: 600;
+        /* font-weight: 300; */
     }
 }

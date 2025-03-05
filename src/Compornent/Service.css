@@ -63,7 +63,7 @@
     }
     .service-info p {
         font-size: 15px;
-        max-height: 80px;
+        /* max-height: 80px; */
         line-height: 1.5;
     }
     .services-container{
