@@ -22,6 +22,7 @@
 .contact form .input-box input{
     width: 300px;
     margin: 10px;
+    color: white;
     border-radius: 5px;
     height: 30px;
     border: 2px solid var(--main-color);
@@ -32,6 +33,7 @@ textarea{
     width: 330px;
     /* margin: 10px; */
     border-radius: 5px;
+    color: white;
     height: 180px;
     border: 2px solid var(--main-color);
     background-color: black;
